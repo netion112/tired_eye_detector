@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kiri merah</folder>
+	<filename>merah-41.jpg</filename>
+	<path>C:\Users\ACER\Documents\dataset_tired-eyes\terlabeli\kiri merah\merah-41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>red-eyes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>329</xmin>
+			<ymin>334</ymin>
+			<xmax>649</xmax>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+</annotation>
