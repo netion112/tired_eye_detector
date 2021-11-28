@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kiri</folder>
+	<filename>45.jpg</filename>
+	<path>C:\Users\ACER\Documents\dataset_tired-eyes\terlabeli\Mata Normal\Kiri\45.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Normal-eyes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>278</ymin>
+			<xmax>710</xmax>
+			<ymax>527</ymax>
+		</bndbox>
+	</object>
+</annotation>
