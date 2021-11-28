@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New Kiri</folder>
+	<filename>827.jpg</filename>
+	<path>C:/Users/ACER/Documents/dataset_tired-eyes/terlabeli/Mata Normal/New Kiri/827.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>248</xmin>
+			<ymin>208</ymin>
+			<xmax>776</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+</annotation>
