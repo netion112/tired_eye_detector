@@ -1,0 +1,26 @@
+<annotation>
+	<folder>New Kiri</folder>
+	<filename>81.jpg</filename>
+	<path>C:/Users/ACER/Documents/dataset_tired-eyes/terlabeli/kantung mata/New Kiri/81.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puffy-eyes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>55</xmin>
+			<ymin>375</ymin>
+			<xmax>566</xmax>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+</annotation>

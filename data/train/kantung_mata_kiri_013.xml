@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kiri</folder>
+	<filename>75.png</filename>
+	<path>C:\Users\ACER\Documents\dataset_tired-eyes\terlabeli\kantung mata\Kiri\75.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puffy-eyes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>600</ymin>
+			<xmax>799</xmax>
+			<ymax>790</ymax>
+		</bndbox>
+	</object>
+</annotation>
