@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Kanan</folder>
+	<filename>11.jpg</filename>
+	<path>C:\Users\ACER\Documents\dataset_tired-eyes\terlabeli\kantung mata\Kanan\11.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Puffy-Eyes</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>408</ymin>
+			<xmax>711</xmax>
+			<ymax>684</ymax>
+		</bndbox>
+	</object>
+</annotation>
