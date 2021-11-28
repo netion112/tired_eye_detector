@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>7226.jpg</filename>
+	<path>C:/Users/ACER/Documents/dataset_tired-eyes/terlabeli/Mata Normal/Kanan/test/7226.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>normal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>285</ymin>
+			<xmax>746</xmax>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+</annotation>
