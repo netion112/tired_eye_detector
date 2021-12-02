@@ -1,28 +1,24 @@
 item {
-  name: "garpu"
+  name: "kantung_mata_kanan"
   id: 1
 }
 item {
-  name: "gelas"
+  name: "kantung_mata_kiri"
   id: 2
 }
 item {
-  name: "kursi"
+  name: "mata_merah_kanan"
   id: 3
 }
 item {
-  name: "meja"
+  name: "mata_merah_kiri"
   id: 4
 }
 item {
-  name: "piring"
+  name: "mata_normal_kanan"
   id: 5
 }
 item {
-  name: "pisau"
+  name: "mata_normal_kiri"
   id: 6
-}
-item {
-  name: "sendok"
-  id: 7
 }
