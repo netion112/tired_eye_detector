@@ -1,0 +1,28 @@
+item {
+  name: "garpu"
+  id: 1
+}
+item {
+  name: "gelas"
+  id: 2
+}
+item {
+  name: "kursi"
+  id: 3
+}
+item {
+  name: "meja"
+  id: 4
+}
+item {
+  name: "piring"
+  id: 5
+}
+item {
+  name: "pisau"
+  id: 6
+}
+item {
+  name: "sendok"
+  id: 7
+}
